@@ -1,0 +1,56 @@
+Below the dashed line, include easily understandable and verifiable 
+citations to all the major sources you used for your project, as described
+in the TP document: 
+https://www.cs.cmu.edu/~112/notes/term-project-and-hack112.html#tp-policies
+
+In addition, your code must also include citations directly in the code that 
+make it clear where you use code that is partly or entirely not of your 
+original design, and what the source is for that code.
+------------------------------------>
+https://drive.google.com/drive/folders/1CVSYtoVMUeBIWUkbAELKBiTWkDCn8BJs?usp=drive_link
+Barry Character Model and lasers
+
+https://stock.adobe.com/search?k=fingers+counting&asset_id=437990586 
+finger images
+
+ChatGPT generated images for Coins, Boss
+ChatGPT helped debug OpenCV
+ChatGPT for general debugging help
+
+https://mathworld.wolfram.com/Circle-LineIntersection.html
+Used for collision check with lasers
+
+https://ai.google.dev/edge/mediapipe/solutions/vision/face_detector/python
+google mesh face detection for nose tracking
+
+https://docs.opencv.org/3.4/d8/dfe/classcv_1_1VideoCapture.html#a57c0e81e83e60f36c83027dc2a188e80
+open cv video capture documentation
+
+https://github.com/tensorflow/tfjs-models/blob/master/face-landmarks-detection/mesh_map.jpg 
+face mesh landmark index references
+
+https://colab.research.google.com/drive/1FCxIsJS9i58uAsgsLFqDwFmiPO14Z2Hd 
+media pipe face mesh
+
+https://www.geeksforgeeks.org/multithreading-python-set-1/ 
+threading basics
+
+https://mediapipe.readthedocs.io/en/latest/solutions/hands.html 
+getting landmarks for hand
+
+https://www.geeksforgeeks.org/creating-a-finger-counter-using-computer-vision-and-opencv-in-python/
+hand counter
+
+https://blog.roboflow.com/edge-detection/
+https://sbme-tutorials.github.io/2018/cv/notes/4_week4.html
+image polygon tracing
+
+https://www.geeksforgeeks.org/convex-hull-algorithm/
+https://www.geeksforgeeks.org/orientation-3-ordered-points/
+get convex hull from polygon
+
+https://en.wikipedia.org/wiki/Hyperplane_separation_theorem
+Separate Axis Theorem for Collisions
+
+https://www.jeffreythompson.org/collision-detection/line-rect.php 
+referenced for line circle collision

@@ -1,0 +1,5 @@
+shapely
+cmu-graphics
+opencv-python
+mediapipe
+json

@@ -1,0 +1,6 @@
+# This file tells git to ignore certain files and directories
+# No need to modify this file 
+__pycache__/
+*.py[cod]
+.DS_Store
+src/background.py
